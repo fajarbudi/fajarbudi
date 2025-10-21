@@ -2,10 +2,10 @@
 Hi 👋, I'm Fajar Budi,<br>A software developer from Indonesia.<br><br>🔭 I’m currently working on Anauri
 
 # 🚀 What I Do
-🔥 Fullstack web development (Frontend & Backend)
-🎥 Create web coding tutorials on YouTube
-💡 Love working with modern web technologies
-🛠️ Always experimenting with new tools & frameworks
+* 🔥 Fullstack web development (Frontend & Backend)
+* 🎥 Create web coding tutorials on YouTube
+* 💡 Love working with modern web technologies
+* 🛠️ Always experimenting with new tools & frameworks
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fajar-budi-770227266) 
